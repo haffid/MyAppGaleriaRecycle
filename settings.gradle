@@ -1,0 +1,2 @@
+rootProject.name = "MyAppGaleriaRecycle"
+include ':app'
